@@ -1,0 +1,651 @@
+{
+  "profile": {
+    "name": "Marada Sanghamitra",
+    "headline": "Business System Analyst | Product Manager | AI-Powered Platforms",
+    "title": "Designing enterprise AI experiences serving 30,000+ users",
+    "email": "mitra.marada143@gmail.com",
+    "phone": "+91-8220503267",
+    "location": "Hyderabad, India",
+    "bio": "Product-minded Business System Analyst with 5+ years at ServiceNow, functioning as de-facto Product Manager across AI-enabled enterprise platforms. Proven track record owning full product lifecycle — from 0→1 discovery through go-to-market launch. Led 3+ cross-functional squads delivering 2× speed improvements and real-time operations platforms.",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/sanghamitra-marada-0a30a73b3/",
+      "github": "https://github.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "ServiceNow",
+      "role": "Business System Analyst / Product Manager",
+      "startDate": "2024-04",
+      "endDate": "present",
+      "duration": "9 months",
+      "description": "Leading product strategy and delivery for AI-powered enterprise platforms serving 30,000+ users at Knowledge 2026.",
+      "responsibilities": [
+        "Product Strategy & Go-to-Market for Intelligent Command Centre (ICC) — real-time AI-powered operations platform",
+        "Technical PRD & specification authoring for camera networks, sensor integration, and live data feeds",
+        "Ownership of Events Nomination Platform enabling 500+ sales reps across 5+ annual events",
+        "AI Feature Development including crowd congestion models and session recommendations"
+      ],
+      "kpis": [
+        "30,000+ users served",
+        "4 products owned end-to-end",
+        "2× speed improvement in nomination journeys",
+        "24/7 platform uptime maintained",
+        "4+ AI-enhanced features shipped per cycle"
+      ],
+      "technologies": [
+        "ServiceNow Platform",
+        "AI/ML Models",
+        "Real-Time Systems",
+        "Cloud Infrastructure",
+        "Data Analytics"
+      ],
+      "category": "product-management",
+      "highlights": [
+        "Knowledge 2026: Intelligent Command Centre serving 30,000+ attendees at Venetian & Wynn, Las Vegas",
+        "Owned E2E product lifecycle from discovery through go-to-market launch",
+        "Drove predictive AI features for real-time crowd management",
+        "Led 3+ cross-functional squads through sprint cycles",
+        "Authored PRDs for camera networks (30+ locations) and sensor integrations"
+      ]
+    },
+    {
+      "id": "exp-2",
+      "company": "ServiceNow",
+      "role": "Business System Analyst (Intern)",
+      "startDate": "2022-01",
+      "endDate": "2022-12",
+      "duration": "1 year",
+      "description": "Internship role focused on user experience improvements and platform optimization.",
+      "responsibilities": [
+        "UX prototype design and validation with discovery sessions",
+        "DT Marketing module improvement and production roadmap alignment",
+        "Sales pipeline solution proposal across 5+ cross-functional teams"
+      ],
+      "kpis": [
+        "10+ discovery sessions conducted",
+        "UX prototype adopted into production roadmap"
+      ],
+      "technologies": [
+        "ServiceNow",
+        "Figma",
+        "SQL",
+        "JavaScript"
+      ],
+      "category": "business-analysis",
+      "highlights": [
+        "Designed DT Marketing module prototype improving sales rep UX",
+        "Directly contributed to nomination efficiency solution"
+      ]
+    },
+    {
+      "id": "exp-3",
+      "company": "Matrix Venture Studio",
+      "role": "Strategic Business Consultant",
+      "startDate": "2022-08",
+      "endDate": "2023-12",
+      "duration": "1 year 5 months",
+      "description": "0→1 GTM strategy and product positioning for early-stage startups in Canadian market.",
+      "responsibilities": [
+        "0→1 GTM strategy development for startup launches",
+        "Target persona definition and competitive analysis",
+        "Product positioning and product-market fit alignment",
+        "Revenue model and business roadmap creation"
+      ],
+      "kpis": [
+        "10+ startup ideas conceptualized",
+        "3 venture launches with complete GTM strategies",
+        "Multiple industries covered"
+      ],
+      "technologies": [
+        "GTM Strategy",
+        "Market Research",
+        "Product Strategy",
+        "Business Analysis"
+      ],
+      "category": "consulting",
+      "highlights": [
+        "Delivered full GTM strategies for 3 venture launches",
+        "Defined target personas and USPs for early-stage founders",
+        "Created competition matrices for product positioning"
+      ]
+    },
+    {
+      "id": "exp-4",
+      "company": "Ramco Systems",
+      "role": "Analyst Programmer",
+      "startDate": "2019-06",
+      "endDate": "2022-06",
+      "duration": "3 years",
+      "description": "End-to-end design and delivery of enterprise web application modules and iOS product improvements.",
+      "responsibilities": [
+        "Design and delivery of 3+ new modules for enterprise web application",
+        "Architecture planning through production deployment",
+        "iOS app improvements for international airline customers",
+        "Critical defect resolution and performance optimization"
+      ],
+      "kpis": [
+        "3+ modules shipped to production",
+        "International client satisfaction maintained",
+        "Performance improvements delivered"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Framework",
+        "iOS",
+        "SQL",
+        "REST APIs",
+        "Cloud Infrastructure"
+      ],
+      "category": "engineering",
+      "highlights": [
+        "Led end-to-end delivery of enterprise modules",
+        "Improved FlyAnywhere iOS app for aeromedical services",
+        "Awarded Fly High Award for outstanding delivery & quality",
+        "Awarded Green Horn Award for fastest learner recognition"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Intelligent Command Centre (ICC)",
+      "subtitle": "Real-Time AI-Powered Operations Platform",
+      "description": "ServiceNow's flagship real-time AI-powered operations platform deployed at major venues (Venetian & Wynn, Las Vegas) serving 30,000+ attendees at Knowledge 2026.",
+      "problem": "Large-scale events face operational challenges in real-time crowd management, attendee safety, and dynamic resource allocation across multiple venues.",
+      "opportunity": "Leverage AI and real-time data from camera networks, sensors, and badge telemetry to enable proactive operations management and predictive crowd routing.",
+      "users": "30,000+",
+      "features": [
+        {
+          "name": "Real-Time Crowd Detection",
+          "description": "ML models ingesting camera feeds from 30+ locations to detect crowd congestion and flow patterns"
+        },
+        {
+          "name": "Predictive AI Routing",
+          "description": "Proactive rerouting recommendations based on crowd density, session schedules, and badge telemetry"
+        },
+        {
+          "name": "Live Operations Dashboard",
+          "description": "C-suite visibility into real-time metrics, hotspots, and operational readiness"
+        },
+        {
+          "name": "Sensor Integration",
+          "description": "Multi-vendor sensor integration for environmental monitoring and capacity tracking"
+        },
+        {
+          "name": "Executive Reporting",
+          "description": "Automated reporting cadence on readiness, risk, and dependencies across vendors"
+        }
+      ],
+      "kpis": [
+        "30,000+ attendees across multiple venues",
+        "30+ camera locations integrated",
+        "Real-time processing of badge telemetry and sensor data",
+        "C-suite visibility on operational metrics"
+      ],
+      "outcomes": [
+        "Successful deployment at Knowledge 2026 (Venetian & Wynn, Las Vegas)",
+        "Real-time crowd management enabling dynamic resource allocation",
+        "Predictive AI features reducing operational response time",
+        "Zero downtime during peak event periods"
+      ],
+      "technologies": [
+        "ServiceNow Platform",
+        "Machine Learning",
+        "Real-Time Data Processing",
+        "Computer Vision",
+        "Cloud Infrastructure"
+      ],
+      "year": "2024-2026"
+    },
+    {
+      "id": "prod-2",
+      "name": "Events Nomination Platform",
+      "subtitle": "Sales Enablement & Pipeline Conversion",
+      "description": "Internal platform enabling 500+ sales reps to nominate prospects for 5+ annual strategic events, driving direct pipeline conversion and lead qualification.",
+      "problem": "Sales teams struggled with inefficient nomination processes, leading to low adoption rates and missed pipeline opportunities across annual events.",
+      "opportunity": "Streamline nomination journey, reduce friction, and enable 500+ sales reps to efficiently qualify and nominate high-value prospects for strategic events.",
+      "users": "500+",
+      "features": [
+        {
+          "name": "AI Session Recommendations",
+          "description": "Personalized session recommendations for 30,000+ attendees based on past behavior and interests"
+        },
+        {
+          "name": "Nomination Workflow",
+          "description": "Redesigned nomination journey reducing time by 50% with improved UX"
+        },
+        {
+          "name": "Event Management",
+          "description": "Support for 5+ annual events (Knowledge, World Forums, Executive Circles)"
+        },
+        {
+          "name": "Pipeline Integration",
+          "description": "Direct integration with Salesforce for prospect data and pipeline tracking"
+        },
+        {
+          "name": "Analytics Dashboard",
+          "description": "Real-time visibility into nomination metrics and pipeline conversion"
+        }
+      ],
+      "kpis": [
+        "500+ sales reps enabled",
+        "5+ events per year supported",
+        "2× speed improvement in nomination process",
+        "50% reduction in nomination time",
+        "Measurable engagement uplift from AI recommendations"
+      ],
+      "outcomes": [
+        "2× speed improvement in nomination journeys",
+        "50% reduction in time-to-nominate",
+        "AI agent feature deployed to 30,000+ attendees",
+        "Maintained 24/7 platform uptime",
+        "4+ AI-enhanced features shipped per cycle"
+      ],
+      "technologies": [
+        "ServiceNow",
+        "AI/ML",
+        "Salesforce Integration",
+        "React",
+        "Node.js"
+      ],
+      "year": "2024-Present"
+    },
+    {
+      "id": "prod-3",
+      "name": "AI Session Recommendation Agent",
+      "subtitle": "Personalized Experience Engine",
+      "description": "AI-powered recommendation engine generating personalized session suggestions for 30,000+ event attendees based on behavioral history and preferences.",
+      "problem": "Event attendees struggle to discover relevant sessions from hundreds of options, leading to suboptimal engagement and missed networking opportunities.",
+      "opportunity": "Use AI to provide real-time, personalized session recommendations that improve attendee engagement and satisfaction at scale.",
+      "users": "30,000+",
+      "features": [
+        {
+          "name": "Behavioral Analysis",
+          "description": "Analyzes past session attendance, interests, and profile data"
+        },
+        {
+          "name": "Real-Time Recommendations",
+          "description": "Instant session suggestions as attendees browse the event schedule"
+        },
+        {
+          "name": "Preference Learning",
+          "description": "Continuously learns from attendee interactions to improve recommendations"
+        },
+        {
+          "name": "Multi-Channel Delivery",
+          "description": "Recommendations across web, mobile, and in-person interfaces"
+        }
+      ],
+      "kpis": [
+        "30,000+ attendees receiving recommendations",
+        "Measurable engagement uplift",
+        "Session attendance improvement",
+        "High recommendation relevance scores"
+      ],
+      "outcomes": [
+        "Shipped AI agent feature to production",
+        "Measurable engagement uplift for attendees",
+        "Improved session discovery and attendance",
+        "Enhanced attendee satisfaction scores"
+      ],
+      "technologies": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Real-Time Processing",
+        "Analytics"
+      ],
+      "year": "2024"
+    },
+    {
+      "id": "prod-4",
+      "name": "DT Marketing Module",
+      "subtitle": "Sales Rep Enablement UX Improvements",
+      "description": "Enterprise module designed to improve sales rep productivity through enhanced user interface and workflow optimization.",
+      "problem": "Sales reps faced friction in marketing module workflows, reducing productivity and adoption rates.",
+      "opportunity": "Redesign UX through discovery-driven approach to improve sales rep experience and increase adoption.",
+      "users": "500+",
+      "features": [
+        {
+          "name": "Improved Navigation",
+          "description": "Streamlined interface for faster access to marketing tools"
+        },
+        {
+          "name": "Workflow Optimization",
+          "description": "Reduced clicks and steps in common sales operations"
+        },
+        {
+          "name": "Enhanced Reporting",
+          "description": "Better visibility into marketing metrics and performance"
+        }
+      ],
+      "kpis": [
+        "10+ discovery sessions conducted",
+        "Adopted into production roadmap"
+      ],
+      "outcomes": [
+        "UX prototype developed and validated",
+        "Production roadmap integration confirmed",
+        "Foundation for Events Platform revamp"
+      ],
+      "technologies": [
+        "ServiceNow",
+        "Figma",
+        "User Research"
+      ],
+      "year": "2022"
+    },
+    {
+      "id": "prod-5",
+      "name": "FlyAnywhere iOS App Enhancements",
+      "subtitle": "Aeromedical Services Mobile Platform",
+      "description": "International iOS application serving aeromedical services for airline customers, featuring critical defect resolution and performance optimization.",
+      "problem": "iOS app had critical defects affecting international airline operations and user experience in mobile-first environment.",
+      "opportunity": "Resolve critical issues and optimize performance to improve reliability and user satisfaction for aeromedical services.",
+      "users": "International airline customers",
+      "features": [
+        {
+          "name": "Defect Resolution",
+          "description": "Fixed critical bugs affecting app stability"
+        },
+        {
+          "name": "Interface Upgrades",
+          "description": "Enhanced user interfaces for better usability"
+        },
+        {
+          "name": "Performance Optimization",
+          "description": "Improved app speed and responsiveness"
+        }
+      ],
+      "kpis": [
+        "Critical defect resolution",
+        "Performance improvements delivered",
+        "Customer satisfaction improvement"
+      ],
+      "outcomes": [
+        "Successfully upgraded for international airline customers",
+        "Measurable performance improvements",
+        "Enhanced customer satisfaction"
+      ],
+      "technologies": [
+        "iOS",
+        "Swift",
+        "REST APIs"
+      ],
+      "year": "2019-2022"
+    },
+    {
+      "id": "prod-6",
+      "name": "Enterprise Web Application Modules",
+      "subtitle": "Ramco Systems Platform Extensions",
+      "description": "3+ enterprise web application modules designed and delivered end-to-end from architecture through production deployment.",
+      "problem": "Enterprise clients needed new functionality and system extensions to meet evolving business requirements.",
+      "opportunity": "Design and deliver scalable, enterprise-grade modules that extend platform capabilities and serve international clients.",
+      "users": "Enterprise clients worldwide",
+      "features": [
+        {
+          "name": "Custom Business Logic",
+          "description": "Tailored functionality for enterprise workflows"
+        },
+        {
+          "name": "Scalable Architecture",
+          "description": "Built for enterprise-scale operations"
+        },
+        {
+          "name": "Client-Specific Customization",
+          "description": "Flexible modules supporting diverse client needs"
+        }
+      ],
+      "kpis": [
+        "3+ modules shipped",
+        "Enterprise client satisfaction",
+        "Production uptime maintained"
+      ],
+      "outcomes": [
+        "3+ modules successfully deployed to production",
+        "International client adoption and satisfaction",
+        "Continued platform expansion"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Framework",
+        "SQL",
+        "REST APIs"
+      ],
+      "year": "2019-2022"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Indian School of Business (ISB)",
+      "degree": "Advanced Management Program in Business Analytics",
+      "field": "Business Analytics",
+      "startDate": "2026",
+      "endDate": "present",
+      "grade": "In Progress",
+      "highlights": [
+        "Advanced product strategy and analytics",
+        "Data-driven decision making",
+        "Executive education program"
+      ]
+    },
+    {
+      "id": "edu-2",
+      "institution": "Indian Institute of Management (IIM)",
+      "degree": "Post Graduate Programme in Management",
+      "field": "Business Administration / MBA",
+      "startDate": "2022",
+      "endDate": "2024",
+      "highlights": [
+        "Comprehensive business and leadership curriculum",
+        "International Relations Coordinator role",
+        "40+ student exchanges facilitated across 15+ universities"
+      ]
+    },
+    {
+      "id": "edu-3",
+      "institution": "Indian Institute of Information Technology (IIIT)",
+      "degree": "Bachelor of Technology",
+      "field": "Electronics & Communication Engineering",
+      "startDate": "2015",
+      "endDate": "2019",
+      "grade": "8.25 / 10",
+      "highlights": [
+        "Gold Medallist",
+        "Strong technical foundation in electronics and communication",
+        "Focus on emerging technologies"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "name": "ServiceNow Certified System Administrator",
+      "issuer": "ServiceNow University",
+      "date": "2023",
+      "credentialUrl": "#"
+    },
+    {
+      "id": "cert-2",
+      "name": "Agile Project Management",
+      "issuer": "Agile PM Academy",
+      "date": "2022",
+      "credentialUrl": "#"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "Fly High Award",
+      "description": "Outstanding delivery and quality in product development",
+      "date": "2022",
+      "category": "award",
+      "impact": "Recognized for exceptional performance and commitment to excellence at Ramco Systems"
+    },
+    {
+      "id": "ach-2",
+      "title": "Green Horn Award",
+      "description": "Fastest learner and result-driven approach recognition",
+      "date": "2020",
+      "category": "award",
+      "impact": "Acknowledged for rapid skill acquisition and consistent delivery of high-quality results"
+    },
+    {
+      "id": "ach-3",
+      "title": "Gold Medallist",
+      "description": "Academic excellence in B.Tech programme",
+      "date": "2019",
+      "category": "recognition",
+      "impact": "Graduated as gold medallist from IIIT Trichy with 8.25/10 GPA"
+    },
+    {
+      "id": "ach-4",
+      "title": "G20 Y20 Consultation 2023 - Student Facilitator",
+      "description": "Managed 100+ international delegates and logistics for 500+ audience inaugural event",
+      "date": "2023",
+      "category": "leadership",
+      "impact": "Led international event coordination for high-level government and youth consultation"
+    },
+    {
+      "id": "ach-5",
+      "title": "International Relations Coordinator - IIM Raipur",
+      "description": "Facilitated 40+ student exchanges across 15+ universities in 8+ countries",
+      "date": "2023",
+      "category": "leadership",
+      "impact": "Drafted MOUs and established international educational partnerships"
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "category": "Product Management",
+      "skills": [
+        "0→1 Product Development",
+        "Product Roadmap & OKRs",
+        "PRD & Feature Specification",
+        "Go-to-Market Launch",
+        "Product Lifecycle Management",
+        "User Research & Discovery"
+      ],
+      "proficiency": 95
+    },
+    {
+      "id": "skill-2",
+      "category": "AI/ML & Data",
+      "skills": [
+        "AI/ML Product Strategy",
+        "AI Agent Feature Delivery",
+        "Data-Driven Decisions",
+        "A/B Testing & Experimentation",
+        "Success Metrics & KPIs",
+        "Analytics & Insights"
+      ],
+      "proficiency": 85
+    },
+    {
+      "id": "skill-3",
+      "category": "Enterprise SaaS",
+      "skills": [
+        "Enterprise Platform Management",
+        "Real-Time Systems",
+        "Scalable Architecture",
+        "SaaS Business Models",
+        "Multi-tenant Platforms",
+        "Cloud Infrastructure"
+      ],
+      "proficiency": 90
+    },
+    {
+      "id": "skill-4",
+      "category": "Leadership & Strategy",
+      "skills": [
+        "Cross-Functional Leadership",
+        "Stakeholder Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Change Management",
+        "Business Impact"
+      ],
+      "proficiency": 85
+    },
+    {
+      "id": "skill-5",
+      "category": "Technical",
+      "skills": [
+        "Agile / Scrum / Sprint",
+        "Technical Presentations",
+        "UX & Prototyping",
+        "SQL & Data Analysis",
+        "APIs & Integrations",
+        "Cloud Platforms"
+      ],
+      "proficiency": 80
+    },
+    {
+      "id": "skill-6",
+      "category": "Business Analysis",
+      "skills": [
+        "Requirements Gathering",
+        "Process Optimization",
+        "Vendor Management",
+        "Competitive Analysis",
+        "Market Research",
+        "Risk Assessment"
+      ],
+      "proficiency": 88
+    }
+  ],
+  "impactMetrics": [
+    {
+      "id": "metric-1",
+      "label": "Users Served",
+      "value": "30,000+",
+      "description": "Platform users at Knowledge 2026 event"
+    },
+    {
+      "id": "metric-2",
+      "label": "Products Owned",
+      "value": "4",
+      "description": "End-to-end product ownership across platforms"
+    },
+    {
+      "id": "metric-3",
+      "label": "Teams Led",
+      "value": "3+",
+      "description": "Cross-functional squads in product delivery"
+    },
+    {
+      "id": "metric-4",
+      "label": "Speed Improvement",
+      "value": "2×",
+      "description": "Nomination journey optimization results"
+    },
+    {
+      "id": "metric-5",
+      "label": "Camera Locations",
+      "value": "30+",
+      "description": "Real-time monitoring infrastructure deployed"
+    },
+    {
+      "id": "metric-6",
+      "label": "Sales Reps Enabled",
+      "value": "500+",
+      "description": "Events Nomination Platform users"
+    },
+    {
+      "id": "metric-7",
+      "label": "Years in Product",
+      "value": "5+",
+      "description": "Experience across product and strategy roles"
+    },
+    {
+      "id": "metric-8",
+      "label": "Features Shipped",
+      "value": "4+",
+      "description": "AI-enhanced features per cycle"
+    }
+  ]
+}
